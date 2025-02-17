@@ -9,6 +9,7 @@ h1 {
   letter-spacing: 1.5em;
   border-bottom: solid 3px rgb(115, 115, 114);
   font-family: "Josefin Sans";
+  font-size: 35px;
 }
 .blue {
   color: rgb(163, 221, 255);
